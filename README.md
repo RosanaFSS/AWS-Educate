@@ -10,10 +10,10 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - explore, search for, and apply for jobs through the AWS Educate Job Board
 - gain an invite to the **AWS Emerging Talent Community** when you earn digital badges </p></p>
 
-<h3>What are my accomplishments so far?</h3>
+<h3>What have been my achievements so far?</h3>
 Below I share a summary of the Labs I have completed. 
 
-| Accomplishment       | Description                | When?     | Time<br>invested<br>h |
+| Achievement          | Description                | When?     | Time<br>invested<br>h |
 | :------------------: | :------------------------- | :-------- | --------: | 
 | <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="120" height="120"> | Introduction to<br>**Cloud 101** | 2023, Aug-16<sup>th</sup> | 3 | 
 | <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" width="120" height="120"> | Getting Started with<nr>**Storage** | 2023, Aug-17<sup>th</sup> | 2 | 
