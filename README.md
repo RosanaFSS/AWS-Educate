@@ -11,7 +11,7 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - gain an invite to the **AWS Emerging Talent Community** when you ear digital badges /
 
 | Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
+|    :---:     |     :---:      |     :---:     | 
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
