@@ -35,5 +35,5 @@ Below I share a summary of courses I completes whithin this session in AWS Educa
 
 | Achievement          | Description                | When?     | Time<br>invested<br>h |
 | :------------------: | :------------------------- | :-------- | --------: | 
-| ![AWS-Educate](https://github.com/RosanaFSS/AWS-Educate/blob/Images/AWS%20Educate%20-%20Prepare%20for%20Workplace%20-%20Networking.jpg) | Prepare for Workplace<br>**Networking** | 2023, Aug-16<sup>th</sup> | 1 | 
+| ![AWS-Educate](https://github.com/RosanaFSS/AWS-Educate/blob/Images/AWS%20Educate%20-%20Prepare%20for%20Workplace%20-%20Networking.jpg "Title" {width=220px height=100px}) | Prepare for Workplace<br>**Networking** | 2023, Aug-16<sup>th</sup> | 1 | 
 
