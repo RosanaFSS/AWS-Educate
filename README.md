@@ -13,7 +13,7 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 <h3>What are my accomplishments so far?</h3>
 Below I share a summary of the Labs I have completed. 
 
-| Accomplishment       | Description                | When?     | Time <br> invested/ (h) |
+| Accomplishment       | Description                | When?     | Time<br>invested<br>(h) |
 | :------------------: | :------------------------- | :-------- | --------: | 
 | <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="120" height="120"> | Introduction to **Cloud 101** | Aug-16th | 2 | 
 | <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" width="120" height="120"> | Getting Started with **Storage** | Aug-17th | 2 | 
