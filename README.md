@@ -10,6 +10,10 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - explore, search for, and apply for jobs through the AWS Educate Job Board
 - gain an invite to the **AWS Emerging Talent Community** when you ear digital badges /
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 <h3>What are my accomplishments so far?</h3>
 Below I share a summary of the Labs I have completed. </p>
