@@ -16,9 +16,7 @@ Below I share a summary of the Labs I have completed. </p>
 - Introduction to Cloud 101</p>
 <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png">](http://credly.com/)
 
-[<img src="img/myImage.png">](http://example.com/),
-
-
+![]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png) =250x250)
 Getting Started with: if you are brand new to the cloud, start here.
 - **Storage (Lab)**
 - **Compute (Lab)**
