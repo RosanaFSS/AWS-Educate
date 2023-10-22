@@ -31,6 +31,7 @@ Below I share a summary of the Labs I have completed including theory courses re
 
 <h4>Prepare for Workplace Courses, Professional Skills</h4>
 Below I share a summary of courses I completes whithin this session in AWS Education. 
+
 | Achievement          | Description                | When?     | Time<br>invested<br>h |
 | :------------------: | :------------------------- | :-------- | --------: | 
 | <img src="hhttps://github.com/RosanaFSS/AWS-Educate/blob/Images/AWS%20Educate%20-%20Prepare%20for%20Workplace%20-%20Networking.jpg" width="220" height="220"> | Prepare for Workplace <br>**Networking** | 2023, __<sup>th</sup> | 1 | 
