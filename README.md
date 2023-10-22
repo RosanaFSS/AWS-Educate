@@ -11,7 +11,7 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - gain an invite to the **AWS Emerging Talent Community** when you ear digital badges /
 
 | Accomplishment | Description | Time invested (h) |
-| :---: |     :---      |     :---:     | 
+| :---: | :---      |     :---:     | 
 | <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="120" height="120"> | Introduction to **Cloud 101** |
 | <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" width="120" height="120"> | Getting Started with **Storage** |
 |  <img src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="120" height="120"> | Getting Started with **Compute** | 
