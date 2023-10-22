@@ -1,5 +1,5 @@
 # AWS-Educate
-My hands-on  in AWS Educate [Getting Started Labs]
+Here you´ll see my hands-on in AWS Educate.
 
 
 It is available at https://www.edx.org/course/sql-for-data-science
