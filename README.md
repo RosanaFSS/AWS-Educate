@@ -8,9 +8,10 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - register with just an e-mail addree, no credit car required.
 - content and resources designed for beginners
 - explore, search for, and apply for jobs through the AWS Educate Job Board
-- gain an invite to the **AWS Emerging Talent Community** when you ear digital badges
+- gain an invite to the **AWS Emerging Talent Community** when you ear digital badges /
 
 
+<h3>_**What are my accomplishments so far?**</h3>
 ### _**What are my accomplishments so far?**_
 Below I share a summary of the Labs I have completed.
 
