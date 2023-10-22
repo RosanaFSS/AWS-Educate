@@ -33,6 +33,6 @@ Below I share a summary of the Labs I have completed including theory courses re
 Below I share a summary of courses I completes whithin this session in AWS Education. 
 | Achievement          | Description                | When?     | Time<br>invested<br>h |
 | :------------------: | :------------------------- | :-------- | --------: | 
-| <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="120" height="120"> | Introduction to<br>**Cloud 101** | 2023, Aug-16<sup>th</sup> | 3 | 
+| <img src="hhttps://github.com/RosanaFSS/AWS-Educate/blob/Images/AWS%20Educate%20-%20Prepare%20for%20Workplace%20-%20Networking.jpg" width="220" height="220"> | Prepare for Workplace <br>**Networking** | 2023, __<sup>th</sup> | 1 | 
 
 
