@@ -1,7 +1,7 @@
 # AWS-Educate
 Here you´ll see my hands-on in AWS Educate.
 
-
+### _**How to get access to AWS Educate?**_
 It is available at https://www.edx.org/course/sql-for-data-science
 Sign up for the AWS Educate if you want to pratics using the same Labs that I show here.
 
