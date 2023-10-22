@@ -15,5 +15,5 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 Below I share a summary of the labs I have completed so far.
 
 Introduction to Cloud 101
-https://www.credly.com/badges/53b653bc-7f81-4e90-9ab5-fee6c37b13e9/public_url
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53b653bc-7f81-4e90-9ab5-fee6c37b13e9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
