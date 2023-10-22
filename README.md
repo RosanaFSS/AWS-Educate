@@ -11,8 +11,8 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - gain an invite to the **AWS Emerging Talent Community** when you earn digital badges </p></p>
 
 <h3>What have been my achievements so far?</h3>
-<h4>_Badged Courses_</h4>
-Below I share a summary of the Labs I have completed. 
+<h4>Badged Courses</h4>
+Below I share a summary of the Labs I have completed including theory courses related to it. 
 
 | Achievement          | Description                | When?     | Time<br>invested<br>h |
 | :------------------: | :------------------------- | :-------- | --------: | 
@@ -29,5 +29,9 @@ Below I share a summary of the Labs I have completed.
 |  <img src=""> | **Builders Labs** | 2023, __<sup>th</sup> | 6 |
 
 
+<h4>Prepare for Workplace Courses, Professional Skills</h4>
+| Achievement          | Description                | When?     | Time<br>invested<br>h |
+| :------------------: | :------------------------- | :-------- | --------: | 
+| <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="120" height="120"> | Introduction to<br>**Cloud 101** | 2023, Aug-16<sup>th</sup> | 3 | 
 
 
