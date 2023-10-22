@@ -14,7 +14,7 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 <h3>What are my accomplishments so far?</h3>
 Below I share a summary of the Labs I have completed. </p>
 - Introduction to Cloud 101</p>
-[<img src="https://www.credly.com/badges/53b653bc-7f81-4e90-9ab5-fee6c37b13e9/public_url"></script>">](http://credly.com/)
+[<img src="https://www.credly.com/badges/53b653bc-7f81-4e90-9ab5-fee6c37b13e9/public_url">](http://credly.com/)
 ![AWS](https://www.credly.com/badges/53b653bc-7f81-4e90-9ab5-fee6c37b13e9/public_url)
 
 Getting Started with: if you are brand new to the cloud, start here.
