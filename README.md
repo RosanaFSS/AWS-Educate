@@ -13,7 +13,7 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 | Left-aligned | Center-aligned | Right-aligned |
 |    :---:     |     :---:      |     :---:     | 
 |  Introduction to Cloud 101   | git status     | git status    |
-| <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="200" height="200">](http://credly.com/) </p>    | git diff       | git diff      |
+| <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="200" height="200">](http://credly.com/)    | git diff       | git diff      |
 
 <h3>What are my accomplishments so far?</h3>
 Below I share a summary of the Labs I have completed. </p>
