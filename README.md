@@ -11,8 +11,8 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - gain an invite to the **AWS Emerging Talent Community** when you ear digital badges
 
 
-###_**What are my accomplishments so far?**_
-Below I share a summary of the Labs I have completed so far.
+### _**What are my accomplishments so far?**_
+Below I share a summary of the Labs I have completed.
 
 - Introduction to Cloud 101
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53b653bc-7f81-4e90-9ab5-fee6c37b13e9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
