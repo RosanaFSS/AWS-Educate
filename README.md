@@ -11,7 +11,7 @@ Start learning cloud skills at no cost with AWS Educate clicking here https://ww
 - gain an invite to the **AWS Emerging Talent Community** when you ear digital badges /
 
 
-<h3>**What are my accomplishments so far?**</h3>
+<h3>What are my accomplishments so far?</h3>
 Below I share a summary of the Labs I have completed.
 
 - Introduction to Cloud 101
