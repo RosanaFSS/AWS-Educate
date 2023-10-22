@@ -29,6 +29,7 @@ Below I share a summary of the Labs I have completed including theory courses re
 |  <img src=""> | **Builders Labs** | 2023, __<sup>th</sup> | 6 |
 
 
+
 <h4>Prepare for Workplace Courses, Professional Skills</h4>
 Below I share a summary of courses I completes whithin this session in AWS Education. 
 
