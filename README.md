@@ -23,7 +23,7 @@ Below I share a summary of the Labs I have completed including theory courses re
 |  <img src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" width="120" height="120"> | Getting Started with<br>**Databases** | 2023, Sep-6<sup>th</sup> | 2 | 
 |  <img src="https://images.credly.com/size/340x340/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" width="120" height="120"> | Getting Started with<br>**Cloud Operations** | 2023, Sep-6<sup>th</sup> | 2 |
 |  <img src="https://images.credly.com/size/340x340/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png" width="120" height="120"> | Getting Started with<br>**Security** | 2023, Sep-27<sup>th</sup> | 2 |
-|  <img src="https://images.credly.com/size/340x340/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png"> width="120" height="120">| Getting Started with<br>**Serverless** | 2023,Oct-23<sup>th</sup> | 2 |
+|  <img src="https://images.credly.com/size/340x340/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" width="120" height="120"> | Getting Started with<br>**Serverless** | 2023,Oct-23<sup>th</sup> | 2 |
 |  <img src=""> | **Machine Learning Foundation** | 2023, __<sup>th</sup> | 3 |
 |  <img src=""> | **AWS DeepRacer Primer** | 2023, __<sup>th</sup> | 3 |
 |  <img src=""> | **Builders Labs** | 2023, __<sup>th</sup> | 6 |
